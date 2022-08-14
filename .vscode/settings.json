@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "code-runner.clearPreviousOutput": true,
+    "typescript": "npx ts-node --files --transpile-only",
+  }, 
+}
